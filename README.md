@@ -1,6 +1,8 @@
 # crrstep
 Stepwise Regression for Fine-Gray Competing Risks Model Use crrstep With (In) R Software
 
+https://www.youtube.com/watch?v=o7YUfWvxzUc
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
